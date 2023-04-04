@@ -1,5 +1,5 @@
-Favorite color: blue
-Favorite food: chicken
-Favorite musician/band:50 cent 
-Favorite movie: spider man
-Requested grade in the course:100 
+Favorite color: Blue
+Favorite food: Chicken Tortilla
+Favorite musician/band: Imagine Dragons 
+Favorite movie: Spider-Man: No Way Home
+Requested grade in the course: 100
