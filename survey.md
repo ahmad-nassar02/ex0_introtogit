@@ -1,4 +1,4 @@
-Favorite color: Blue
+Favorite color: Turquoise
 Favorite food: Chicken Tortilla
 Favorite musician/band: Imagine Dragons 
 Favorite movie: Spider-Man: No Way Home
